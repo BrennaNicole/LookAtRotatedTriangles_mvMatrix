@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LookAtRotatedTriangles_mvMatrix", "LookAtRotatedTriangles_mvMatrix\", "{B021171E-5E30-438E-B502-0CAEC5498BC7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50565"
+		Debug.AspNetCompiler.PhysicalPath = "LookAtRotatedTriangles_mvMatrix\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50565\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50565"
+		Release.AspNetCompiler.PhysicalPath = "LookAtRotatedTriangles_mvMatrix\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50565\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50565"
+		SlnRelativePath = "LookAtRotatedTriangles_mvMatrix\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B021171E-5E30-438E-B502-0CAEC5498BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B021171E-5E30-438E-B502-0CAEC5498BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4534F29-BC38-40E6-BC2F-36523EB44AA3}
+	EndGlobalSection
+EndGlobal
